@@ -19,10 +19,10 @@ To use the script, you'll need to have AWS credentials set up on your machine. Y
 Once you've set up your AWS credentials and updated the bucket and table names, you can run the script with the following command:
 
 ```bash
-python script_name.py
+python3 multiExtracText_v8.py
 ```
 
-Replace `script_name.py` with the name of the Python script.
+Replace `multiExtracText_v8.py` with the name of the Python script.
 
 ## Future Work
 
